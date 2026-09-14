@@ -16,7 +16,7 @@ It is an **exploratory/explanatory simulation**, not a predictive model of real 
 
 ### Simulation UI
 
-![Simulation UI](screenshots/screenshot-ui.png)
+![Simulation UI](screenshots/screenshot-ui-runing.png)
 
 Example run with a strongly delivery-oriented Product Manager (`riskTolerance=0.8`, `deliveryBias=0.9`) and low autonomy-boundary clarity (`0.1`). The UI separates underlying technical state from observable conflict and exposes the health of the engineering feedback channel.
 
